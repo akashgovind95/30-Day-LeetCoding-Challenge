@@ -12,7 +12,7 @@ Go ahead, take a look!
 
 Week 1
 ------
-- **Single Number**
+- **Single Number**   
   [Leetcode URL](https://leetcode.com/problems/single-number/)    
   [Solution](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%201/SingleNumber.cpp)  
 
