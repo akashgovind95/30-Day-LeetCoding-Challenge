@@ -1,4 +1,8 @@
 /*
+
+***LEETCODE URL: https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3299/****
+
+
 You are given a string s containing lowercase English letters, and a matrix shift, where shift[i] = [direction, amount]:
 
 direction can be 0 (for left shift) or 1 (for right shift). 
