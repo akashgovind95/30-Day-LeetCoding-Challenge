@@ -42,9 +42,10 @@ Approach:
 1. Loop through the shift vector.
 2. Take a variable to maintain total shifts (here 'totalShift').
 3. For each left shift, decrement totalShift by the the number of left shifts. For each right shift, increment the variable similarly.
-4. If totalShift is less than 0, then left shift the entire string by abs(totalShift) times. Else, right shift the string by abs(totalShift) times.
-5. Instead of actually looping through the string and shifting the characters, find the final index for each index after shifting and simply place the character at that index in a temporary string (here 'finalS').
-6. return finalS.
+4. Also, don't forget to mod totalShift by the size of the string (totalShift % SizeOfString). It helps in avoiding redundant shifts.
+5. If totalShift is less than 0, then left shift the entire string by abs(totalShift) times. Else, right shift the string by abs(totalShift) times.
+6. Instead of actually looping through the string and shifting the characters, find the final index for each index after shifting and simply place the character at that index in a temporary string (here 'finalS').
+7. return finalS.
 
 */
 
