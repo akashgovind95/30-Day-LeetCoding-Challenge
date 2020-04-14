@@ -67,5 +67,9 @@ Week 2
 - **Contiguous Array**   
   [Leetcode URL](https://leetcode.com/problems/contiguous-array)    
   [Solution](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%202/ContiguousArray.cpp) 
+  
+- **Perform String Shifts**   
+  [Leetcode URL](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3299/)    
+  [Solution](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%202/PerformStringShifts.cpp) 
 
 
