@@ -71,5 +71,12 @@ Week 2
 - **Perform String Shifts**   
   [Leetcode URL](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3299/)    
   [Solution](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%202/PerformStringShifts.cpp) 
+  
+
+Week 3
+------
+- **Product of Array Except Self**   
+  [Leetcode URL](https://leetcode.com/problems/product-of-array-except-self/)    
+  [Solution](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%203/ProductOfArrayExceptSelf.cpp)
 
 
