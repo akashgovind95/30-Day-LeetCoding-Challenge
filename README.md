@@ -78,5 +78,9 @@ Week 3
 - **Product of Array Except Self**   
   [Leetcode URL](https://leetcode.com/problems/product-of-array-except-self/)    
   [Solution](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%203/ProductOfArrayExceptSelf.cpp)
+  
+- **Valid Parenthesis String**   
+  [Leetcode URL](https://leetcode.com/problems/valid-parenthesis-string/)    
+  [Solution](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%203/ValidParenthesisString.cpp)
 
 
