@@ -1,3 +1,5 @@
+![Coding](https://images.unsplash.com/photo-1526649661456-89c7ed4d00b8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1471&q=80)
+
 # 30-Day-LeetCoding-Challenge
 Solutions to every question in the [30 Day LeetCoding challenge](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge)  
 
@@ -82,5 +84,15 @@ Week 3
 - **Valid Parenthesis String**   
   [Leetcode URL](https://leetcode.com/problems/valid-parenthesis-string/)    
   [Solution](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%203/ValidParenthesisString.cpp)
+  
+    
+- **Number of Islands**     
+  [Leetcode URL](https://leetcode.com/problems/number-of-islands/)    
+  [Solution](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%203/NumberOfIslands.cpp)
+  
+    
+- **Minimum Path Sum**   
+  [Leetcode URL](https://leetcode.com/problems/minimum-path-sum)    
+  [Solution](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%203/MinimumPathSum.cpp)
 
 
