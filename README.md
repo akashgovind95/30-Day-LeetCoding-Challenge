@@ -94,5 +94,9 @@ Week 3
 - **Minimum Path Sum**   
   [Leetcode URL](https://leetcode.com/problems/minimum-path-sum)    
   [Solution](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%203/MinimumPathSum.cpp)
+  
+- **Search in Rotated Sorted Array**   
+  [Leetcode URL](https://leetcode.com/problems/search-in-rotated-sorted-array/)    
+  [Solution](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%203/SearchInRotatedSortedArray.cpp)
 
 
