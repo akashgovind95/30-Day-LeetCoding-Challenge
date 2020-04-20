@@ -98,5 +98,9 @@ Week 3
 - **Search in Rotated Sorted Array**   
   [Leetcode URL](https://leetcode.com/problems/search-in-rotated-sorted-array/)    
   [Solution](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%203/SearchInRotatedSortedArray.cpp)
+  
+- **Construct Binary Search Tree from Preorder Traversal**   
+  [Leetcode URL](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)    
+  [Solution](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%203/ConstructBinarySearchTreefromPreorderTraversal.cpp)
 
 
