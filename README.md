@@ -102,5 +102,9 @@ Week 3
 - **Construct Binary Search Tree from Preorder Traversal**   
   [Leetcode URL](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)    
   [Solution](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%203/ConstructBinarySearchTreefromPreorderTraversal.cpp)
+  
+- **Leftmost Column with at Least a One**   
+  [Leetcode URL](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3306/)    
+  [Solution](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%203/LeftmostColumnWithAtLeastAOne.cpp)
 
 
