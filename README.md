@@ -114,5 +114,9 @@ Week 4
 - **Subarray Sum Equals K**   
   [Leetcode URL](https://leetcode.com/problems/subarray-sum-equals-k/)    
   [Solution](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%204/SubarraySumEqualsK.cpp)
+  
+- **Bitwise AND of Numbers Range**   
+  [Leetcode URL](https://leetcode.com/problems/bitwise-and-of-numbers-range/)    
+  [Solution](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%204/BitwiseANDofNumbersRange.cpp)
 
 
