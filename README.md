@@ -118,5 +118,9 @@ Week 4
 - **Bitwise AND of Numbers Range**   
   [Leetcode URL](https://leetcode.com/problems/bitwise-and-of-numbers-range/)    
   [Solution](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%204/BitwiseANDofNumbersRange.cpp)
+  
+- **LRU Cache**   
+  [Leetcode URL](https://leetcode.com/problems/lru-cache/)    
+  [Solution](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%204/LRUCache.cpp)
 
 
