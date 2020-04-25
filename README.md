@@ -122,5 +122,9 @@ Week 4
 - **LRU Cache**   
   [Leetcode URL](https://leetcode.com/problems/lru-cache/)    
   [Solution](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%204/LRUCache.cpp)
+  
+- **Jump Game**   
+  [Leetcode URL](https://leetcode.com/problems/jump-game)    
+  [Solution](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%204/JumpGame.cpp)
 
 
