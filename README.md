@@ -127,4 +127,7 @@ Week 4
   [Leetcode URL](https://leetcode.com/problems/jump-game)    
   [Solution](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%204/JumpGame.cpp)
 
-
+- **Longest Common Subsequence**   
+  [Leetcode URL](https://leetcode.com/problems/longest-common-subsequence/)    
+  [Solution | Bottom Up](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%204/LongestCommonSubsequenceBottomUp.cpp)   
+  [Solution | Top Down](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%204/LongestCommonSubsequenceTopDown.cpp)
