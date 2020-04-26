@@ -129,5 +129,5 @@ Week 4
 
 - **Longest Common Subsequence**   
   [Leetcode URL](https://leetcode.com/problems/longest-common-subsequence/)    
-  [Solution | Bottom Up](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%204/LongestCommonSubsequenceBottomUp.cpp)   
-  [Solution | Top Down](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%204/LongestCommonSubsequenceTopDown.cpp)
+  [Solution | Bottom Up approach](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%204/LongestCommonSubsequenceBottomUp.cpp)   
+  [Solution | Top Down approach](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%204/LongestCommonSubsequenceTopDown.cpp)
