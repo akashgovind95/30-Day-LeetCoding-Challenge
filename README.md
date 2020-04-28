@@ -131,3 +131,7 @@ Week 4
   [Leetcode URL](https://leetcode.com/problems/longest-common-subsequence/)    
   [Solution | Bottom Up approach](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%204/LongestCommonSubsequenceBottomUp.cpp)   
   [Solution | Top Down approach](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%204/LongestCommonSubsequenceTopDown.cpp)
+
+- **Maximal Square**   
+  [Leetcode URL](https://leetcode.com/problems/maximal-square/)    
+  [Solution](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%204/MaximalSquare.cpp)
