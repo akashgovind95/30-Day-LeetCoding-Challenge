@@ -135,3 +135,8 @@ Week 4
 - **Maximal Square**   
   [Leetcode URL](https://leetcode.com/problems/maximal-square/)    
   [Solution](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%204/MaximalSquare.cpp)
+  
+ - **First Unique Number**   
+  [Leetcode URL](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3313/)    
+  [Solution | Doubly Linked List approach](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%204/FirstUniqueNumber_DoublyLinkedList.cpp)   
+  [Solution | Queue approach](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%204/FirstUniqueNumber_queue.cpp)
