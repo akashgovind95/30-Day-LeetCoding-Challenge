@@ -140,3 +140,11 @@ Week 4
   [Leetcode URL](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3313/)    
   [Solution | Doubly Linked List approach](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%204/FirstUniqueNumber_DoublyLinkedList.cpp)   
   [Solution | Queue approach](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%204/FirstUniqueNumber_queue.cpp)
+  
+  
+Week 5
+------
+
+- **Binary Tree Maximum Path Sum**   
+  [Leetcode URL](https://leetcode.com/problems/binary-tree-maximum-path-sum/)    
+  [Solution](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%205/BinaryTreeMaximumPathSum.cpp)
