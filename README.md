@@ -151,4 +151,4 @@ Week 5
   
 - **Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree**   
   [Leetcode URL](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/532/week-5/3315/)    
-  [Solution]https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%205/CheckIfAStringIsAValidSequenceFromRootToLeavesPathInABinaryTree.cpp)
+  [Solution](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%205/CheckIfAStringIsAValidSequenceFromRootToLeavesPathInABinaryTree.cpp)
